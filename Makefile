@@ -2,7 +2,9 @@
 # For more languages and info see:
 # https://github.com/rsp/travis-hello#readme
 
-CXXFLAGS = -g -Wall -Wfatal-errors -std=c++14
+# CXXFLAGS = -g -Wall -Wfatal-errors -std=c++14
+CXXFLAGS = -g -Wall -Wfatal-errors
+
 
 ALL = hello
 
