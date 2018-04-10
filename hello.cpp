@@ -4,6 +4,6 @@ using namespace std;
 int main() 
 {
     // added a comment to commit
-    cout << "Hello, World!";
+    cout << "Hello";
     return 0;
 }
